@@ -8,7 +8,7 @@ A modern web application that transforms YouTube videos into concise, intelligen
 
 ### 🔗 Enter YouTube Video URL
 
-![Enter Video URL](./assets/Enter-Youtube-Video-url.png)
+![Enter Video URL](./assets/enter-url .png)
 
 ### ⚙️ Features Panel
 
